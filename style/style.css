@@ -633,5 +633,6 @@ body {
 .tag4-all-photo {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 11px;
 }
+
